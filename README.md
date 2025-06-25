@@ -1,2 +1,1 @@
-# chatrs_web
-A Chat app showcase website 
+# chatrs-dev.github.io
